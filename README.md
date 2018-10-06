@@ -1,3 +1,3 @@
-# Class-Projects
+# Mine-Sweeper
 
-A collection of some of the class projects I've done.
+A simple minesweeper game that was a class project.
