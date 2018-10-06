@@ -1,3 +1,3 @@
 # Class-Projects
 
-A collection of class projects I have done since starting college
+A collection of some of the class projects I've done.
